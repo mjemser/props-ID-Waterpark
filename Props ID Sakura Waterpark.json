@@ -15,9 +15,9 @@
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
-"MODE_BACKUP_ADS" : false,
-"MODE_NO_ADS" : true,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_BACKUP_ADS" : true,
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -41,9 +41,9 @@
 
 "STARTAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-3940256099942544/6300978111",
-"ADMOB_INTER" : "ca-app-pub-3940256099942544/1033173712",
-"ADMOB_NATIV" : "ca-app-pub-3940256099942544/2247696110",
+"ADMOB_BANNER" : "ca-app-pub-7724389513565902/5283035705",
+"ADMOB_INTER" : "ca-app-pub-7724389513565902/1558632869",
+"ADMOB_NATIV" : "ca-app-pub-7724389513565902/7932469524",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
